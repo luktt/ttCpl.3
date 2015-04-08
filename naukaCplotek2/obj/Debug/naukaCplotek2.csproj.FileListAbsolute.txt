@@ -1,0 +1,7 @@
+T:\naukaCplotek2\naukaCplotek2\bin\Debug\naukaCplotek2.exe.config
+V:\naukaCplotek2\naukaCplotek2\bin\Debug\naukaCplotek2.exe.config
+V:\naukaCplotek2\naukaCplotek2\bin\Debug\naukaCplotek2.exe
+V:\naukaCplotek2\naukaCplotek2\bin\Debug\naukaCplotek2.pdb
+V:\naukaCplotek2\naukaCplotek2\obj\Debug\naukaCplotek2.csprojResolveAssemblyReference.cache
+V:\naukaCplotek2\naukaCplotek2\obj\Debug\naukaCplotek2.exe
+V:\naukaCplotek2\naukaCplotek2\obj\Debug\naukaCplotek2.pdb
